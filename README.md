@@ -8,6 +8,8 @@
 6. [List programs](list_programes.ipynb)
 7. [Matrix programs](matrix.ipnyb)
 
+----------------------------------------------------------------------------------------------
+
 ## How to Contribute
 
 Your contributions to this repository are highly welcome! Follow the steps below to contribute:
@@ -27,5 +29,7 @@ Your contributions to this repository are highly welcome! Follow the steps below
    git commit -m "Your Changes"
    git push origin feature/your-feature-name
    ```
+----------------------------------------------------------------------------------------------
+
 
 Thank you for contributing! Your efforts help make this resource better for everyone. 🚀
